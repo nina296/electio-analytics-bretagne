@@ -43,10 +43,6 @@ Exécuter les notebooks dans l'ordre : `ETL.ipynb` → `SQL.ipynb` → `Analyse_
 | Code commenté | `notebooks/` |
 | Support de soutenance | `reports/` |
 
-## Équipe
-
-[Noms des membres de l'équipe]
-
 ## Licence
 
 Projet pédagogique réalisé dans le cadre de la certification RNCP 35584 — EPSI.
