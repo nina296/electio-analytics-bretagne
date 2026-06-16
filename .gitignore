@@ -1,4 +1,25 @@
-data/raw/
-data/processed/*.db
-venv/
+# Fichiers de données brutes volumineux (telechargeables depuis les sources citees dans le README)
+data/raw/*
+!data/raw/.gitkeep
+
+# Fichiers de cache Jupyter / Python
 __pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Configuration IDE
+.vscode/
+.idea/
